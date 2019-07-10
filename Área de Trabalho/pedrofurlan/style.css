@@ -8,4 +8,36 @@ nav{
 }
 a{
     background-color: white;
+    font-size: 22pt;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: none;
+
+
+}
+nav a{
+    color: black;
+    text-decoration: blue;
+}
+header{
+    widows: 100px;
+    height: 850px;
+    background-image: url(images.png);
+    background-size: cover;
+    background-position: center;
+    border-bottom: 50px red solid;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 200px;
+    
+
+}
+img{
+    border-radius: 100%;
+}
+p{
+    
 }
